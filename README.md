@@ -3,10 +3,11 @@
 ### Set up environment
 using the conda or pyenv
 
-- conda create -n cs3243 python=2.7
-- source activate cs3243
+- conda create -n CompSci683 python=x.x
+- source activate CompSci683
 
-replace the cs3243 with whatever name you want
+replace the CompSci683 with whatever name you want
+replace x.x with the current python version
 https://conda.io/docs/index.html
 
 pip install PyPokerEngine  
